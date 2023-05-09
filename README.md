@@ -8,7 +8,7 @@ Module 19: Progressive Web Applications (PWA): Text Editor
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Installation](#Installation)
 - [Tests](#Tests)
-- [Walkthrough Video](#Walkthrough-Video)
+- [Heroku Deployment](#Heroku-Deployment)
 - [License](#License)
 - [Contact](#Contact)
 
@@ -49,8 +49,7 @@ The goal of this application is to create notes or code snippets with or without
 ## Tests
 
 
-
-## Walkthrough Video
+## Heroku Deployment
 [All Routes Walkthrough]()
 
 ## License
