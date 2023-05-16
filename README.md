@@ -50,7 +50,7 @@ The goal of this application is to create notes or code snippets with or without
 
 
 ## Heroku Deployment
-[All Routes Walkthrough]()
+[Deployed Application](https://pwa-text-editor-server.herokuapp.com/)
 
 ## License
 Licensed under [MIT](https://choosealicense.com/licenses/mit/) license.
