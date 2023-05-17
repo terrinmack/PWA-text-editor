@@ -48,7 +48,9 @@ The goal of this application is to create notes or code snippets with or without
 2. Within the root directory of your terminal, `npm install` to install any dependencies needed to run the program. 
 
 ## Screenshots
-
+![Home Screen](/client/src/images/homepage-screenshot.png)
+![Service Worker](/client/src/images/service-worker.png)
+![Manifest](/client/src/images/manifest.png)
 
 ## Heroku Deployment
 [Deployed Application](https://pwa-text-editor-server.herokuapp.com/)
