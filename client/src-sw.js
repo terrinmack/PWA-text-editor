@@ -31,10 +31,13 @@ registerRoute(
   ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
   new StaleWhileRevalidate({
     cacheName: 'asset-cache',
-        plugins: [
-          new CacheableResponsePlugin({
-            statuses: [0, 200],
-          }),
-        ],
+    plugins: [
+      new CacheableResponsePlugin({
+        statuses: [0, 200],
       }),
-  );
+      new ExpirationPlugin({
+        maxAgeSeconds: 30 * 24 * 60 * 60,
+      }),
+    ],
+  }),
+);
