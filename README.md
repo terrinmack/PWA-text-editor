@@ -7,7 +7,7 @@ Module 19: Progressive Web Applications (PWA): Text Editor
 - [Description](#Description)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Installation](#Installation)
-- [Tests](#Tests)
+- [Screenshots](#Screenshots)
 - [Heroku Deployment](#Heroku-Deployment)
 - [License](#License)
 - [Contact](#Contact)
@@ -44,9 +44,10 @@ The goal of this application is to create notes or code snippets with or without
 
 ## Installation
 
-1. 
+1. First, clone this repository into your local directory
+2. Within the root directory of your terminal, `npm install` to install any dependencies needed to run the program. 
 
-## Tests
+## Screenshots
 
 
 ## Heroku Deployment
